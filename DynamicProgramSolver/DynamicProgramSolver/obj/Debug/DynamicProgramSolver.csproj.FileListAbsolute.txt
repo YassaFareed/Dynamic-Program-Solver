@@ -1,0 +1,14 @@
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\bin\Debug\DynamicProgramSolver.exe.config
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\bin\Debug\DynamicProgramSolver.exe
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\bin\Debug\DynamicProgramSolver.pdb
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.csprojAssemblyReference.cache
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.Properties.Resources.resources
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.csproj.GenerateResource.cache
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.csproj.CoreCompileInputs.cache
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.exe
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.pdb
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.algorithms1.resources
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.algorithms2.resources
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.algorithms3.resources
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.algorithms4.resources
+C:\Users\yassa\source\repos\DynamicProgramSolver\DynamicProgramSolver\obj\Debug\DynamicProgramSolver.Form1.resources
